@@ -1,0 +1,71 @@
+body{
+    background-color: #182562;
+  }
+  #acolor{
+    color: #182562;
+  }
+  #acolorwhite{
+    color: #002c21;
+  }
+  #textcolor{
+    color: #002c21;
+  }
+  h1{
+    font-family: goldrops;
+    font-size: 47px;
+    color: #02062c;
+  }
+  #formbg {
+      margin: 0 auto;
+      width: 100%;
+      max-width: 500px;
+      background: linear-gradient(180deg, #ffffff 0%, #f0f0f0 100%);
+      border-radius: 10px;
+      box-shadow: 0 10px 20px rgba(60, 66, 87, 0.1), 0 6px 12px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+  }
+  
+  #formbg th {
+      padding: 10px;
+  }
+  
+  #formbg input {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+      border: 1px solid #ced4da;
+      border-radius: 5px;
+  }
+  
+  #formbg button {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      background-color: #182562;
+      color: #fffdfe;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+  }
+  
+  #formbg button:hover {
+      background-color: #0d1430;
+  }
+  
+  #formbg1 {
+      margin: 0px auto;
+      width: 100%;
+      max-width: 500px;
+      background: white;
+      border-radius: 4px;
+      box-shadow: rgba(16, 18, 26, 0.12) 0px 7px 14px 0px, rgba(16, 13, 13, 0.12) 0px 3px 6px 0px;
+  }
+  input{
+      border-radius: 7px;
+  }
+ #im1{
+  background-color: #edeff0;  
+ }
+ .table tbody tr:hover td, .table tbody tr:hover th {
+  background-color: #f8f8fb;
+  }
